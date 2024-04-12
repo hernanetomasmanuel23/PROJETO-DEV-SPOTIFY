@@ -1,10 +1,3 @@
-# PROJETO-DEV-SPOTIFY
------------------------------------------------------------------#---------------------------------------------------------------------------------
------------------------------------------------------------------#---------------------------------------------------------------------------------
-
-Projeto Inspirado na página de stream de música SPOTIFY, onde desenvolvemos para uma aplicação web, com HTML, CSS, JAVASCRIPT, BOOTSRTAP, e ANGULAR.
-
------------------------------------------------------------------#---------------------------------------------------------------------------------
------------------------------------------------------------------#---------------------------------------------------------------------------------
-
-Com categoria de música, Genéro de Muisica, APIs, cookies, de forma dinâmica e interativa.
+# spotify-Devs Comunity Programer
+<!--ESTE É UM PROJETO FRONT END, PARA OS ALUNOS DA COMUNIDADE DEVS COMUNITY PROGRAMER, UM PROJETO
+INSPIRADO NA PLATAFORMA DE STREAM SPOTIFY-->
